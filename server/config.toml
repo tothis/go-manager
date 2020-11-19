@@ -1,0 +1,7 @@
+[MySQL]
+userName = "root"
+password = "123456"
+host = "localhost"
+port = 3306
+dbName = "test"
+arg = "charset=utf8mb4&parseTime=True&loc=Local"
